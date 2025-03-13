@@ -1,0 +1,55 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 40px;
+  background-color: #f4f4f4;
+}
+
+/* Image Styling */
+img {
+  width: 600px;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+/* Table Styling */
+table {
+  width: 50%;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+/* Colored Tier List (Fixed) */
+.black {
+  background-color: black;
+  color: white; /* White text for contrast */
+  padding: 5px;
+}
+
+.grey {
+  background-color: grey;
+  color: black; /* Black text for visibility */
+  padding: 5px;
+}
+
+.red {
+  background-color: red;
+  color: white;
+  padding: 5px;
+}
+
+/* Blockquote Styling */
+blockquote {
+  font-style: italic;
+  background-color: yellow;
+  padding: 10px;
+  display: inline-block;
+}
