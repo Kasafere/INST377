@@ -27,16 +27,16 @@ td {
   padding: 10px;
 }
 
-/* Colored Tier List (Fixed) */
+/* Colored Tier List */
 .black {
   background-color: black;
-  color: white; /* White text for contrast */
+  color: white;
   padding: 5px;
 }
 
 .grey {
   background-color: grey;
-  color: black; /* Black text for visibility */
+  color: black;
   padding: 5px;
 }
 
